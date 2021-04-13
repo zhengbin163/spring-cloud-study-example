@@ -1,7 +1,7 @@
 test:
   msg: hello world
 server:
-  port: 8884
+  port: 8885
 
 spring:
   application:
